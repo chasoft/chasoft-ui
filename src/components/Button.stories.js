@@ -14,5 +14,5 @@ const Template = (args) => <Button {...args} />;
 
 export const Default = Template.bind({});
 Default.args = {
-	label: 'My Button hehe',
+	label: 'My Basic Button',
 };
